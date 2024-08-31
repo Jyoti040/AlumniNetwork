@@ -7,8 +7,10 @@ function App() {
   return (
     <>
       <Header />
+      <div className="pt-16">
       <Outlet />
       <Footer />
+      </div>
     </>
   )
 }
