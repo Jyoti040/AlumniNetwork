@@ -7,6 +7,8 @@ import Profile from './Profile';
 import RegisterStudent from './RegisterStudent';
 import RegisterAlumni from './RegisterAlumni';
 import RegisterCollege from './RegisterCollege';
+import Landing from './Landing';
+import Channel from './Channel';
 
 export {
   Home,
@@ -15,5 +17,7 @@ export {
   Profile,
   RegisterStudent,
   RegisterAlumni,
-  RegisterCollege
+  RegisterCollege,
+  Landing,
+  Channel
 };
